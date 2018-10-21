@@ -12,4 +12,3 @@ I built this blog because I am going to output things that I learned.So this is 
 I'll write around computer science, electronics and control systems.
 
 If you are free, check this.
-
